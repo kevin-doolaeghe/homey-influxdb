@@ -1,0 +1,28 @@
+{
+  "id": "fr.kdoolaeghe.homey-influxdb",
+  "version": "1.0.0",
+  "compatibility": ">=5.0.0",
+  "sdk": 3,
+  "platforms": [
+    "local"
+  ],
+  "name": {
+    "en": "homey-influxdb"
+  },
+  "description": {
+    "en": "Homey support for InfluxDB"
+  },
+  "category": [
+    "tools"
+  ],
+  "permissions": [],
+  "images": {
+    "small": "/assets/images/small.png",
+    "large": "/assets/images/large.png",
+    "xlarge": "/assets/images/xlarge.png"
+  },
+  "author": {
+    "name": "Kevin Doolaeghe",
+    "email": "doolaeghe.kevin@gmail.com"
+  }
+}
