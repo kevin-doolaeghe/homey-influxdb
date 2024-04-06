@@ -47,5 +47,8 @@ homey app run
 
 * [Homey Developer](https://homey.app/en-us/developer/)
 * [Homey Developer - Getting started](https://apps.developer.homey.app/the-basics/getting-started)
-* [InfluxData - Tools documentation](https://docs.influxdata.com/influxdb/cloud-serverless/get-started/)
+* [InfluxData - Documentation](https://docs.influxdata.com/)
+* [InfluxData - InfluxDB OSS - Getting started](https://docs.influxdata.com/influxdb/v2/)
+* [InfluxData - InfluxDB API - Guide](https://docs.influxdata.com/influxdb/v2/api-guide/)
+* [InfluxData - InfluxDB API - Reference](https://docs.influxdata.com/influxdb/v2/api/)
 * [`balmli`'s `homey-influxdb` repository on Github](https://github.com/balmli/homey-influxdb)
